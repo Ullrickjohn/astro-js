@@ -1,0 +1,45 @@
+body{
+    // font family//
+    font-family: $primary-font;
+    color: $secondary;
+    font-size: $text-legular;
+    line-height: $lh-regular;
+
+}
+.container{
+width: 100%;
+min-width: $container-width;
+padding: $container-paddings;
+margin: 0 auto;
+}
+
+.big-text{
+font-size: $big-text;
+}
+.small-text{
+    font-size: $text-small;
+    line-height: $lh-small;
+}
+h1{
+    font-size: $h1;
+}
+h2{
+    font-size: $h2;
+}
+h3{
+    font-size: $h3;
+}
+h4{
+    font-size: $h4;
+}
+h5{
+    font-size: $h5;
+}
+h6{
+    font-size: $h16;
+}
+
+a{
+color: $secondary;
+
+}
